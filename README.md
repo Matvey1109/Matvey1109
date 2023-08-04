@@ -4,6 +4,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Matvey1109.Matvey1109&"  />
+</div>
+
+###
+
 <h1 align="center">Hey there 👋</h1>
 
 ###
@@ -12,7 +18,7 @@
 
 ###
 
-<p align="left">I'm a computer science student, software developer, python enjoyer</p>
+<h4 align="left">I'm a computer science student, software developer, python enjoyer</h4>
 
 ###
 
@@ -65,13 +71,12 @@
 ###
 
 <div align="center">
-  <a href="@matvey_vy" target="_blank">
+  <a href="https://t.me/matvey_vy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
   <a href="https://www.instagram.com/matvey_vy_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <a href="https://www.linkedin.com/in/matvey-kosyakov-412a65261/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -83,5 +88,12 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matvey1109&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Matvey1109&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
