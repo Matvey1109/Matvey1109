@@ -1,12 +1,8 @@
-###
-
+<h1 align="center">Hey there 👋</h1>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Matvey1109.Matvey1109&"  />
 </div>
 
-###
-
-<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -14,7 +10,7 @@
 
 ###
 
-<h4 align="left">I'm a computer science student, software developer, python enjoyer</h4>
+<h4 align="left">I'm a Computer Science student, Software Engineer, Python/C++ enjoyer</h4>
 
 ###
 
