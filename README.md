@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">I'm a Computer Science student, Software Engineer, Python/C++ enjoyer</h4>
+<h4 align="left">I'm a Computer Science student, Software Engineer, Python/Go/C++ enjoyer</h4>
 
 ###
 
